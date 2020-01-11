@@ -1,0 +1,9 @@
+cd ..
+mkdir new
+cd new
+touch new.txt
+echo welcome to banyuan>new.txt
+cd ..
+mkdir newother
+cd newother
+mkdir sub
